@@ -46,7 +46,7 @@ Le programme vérifie également la syntaxe des opérations et gère la division
 
 Le serveur démarre et attend la connexion du client.
 
-![Démarrage du serveur](captures/CONSOLE serveur2-1.png)
+![Démarrage du serveur](captures/CONSOLE_serveur2-1.png)
 
 ### 2. Opération réussie
 
@@ -54,7 +54,7 @@ Exemple : `34 * 23`
 
 Résultat attendu : `782`
 
-![Calcul réussi](captures/CONSOLE clien2-1.png)
+![Calcul réussi](captures/CONSOLE_clien2-1.png)
 
 ### 3. Division par zéro
 
@@ -89,13 +89,13 @@ Réaliser un échange d'objets entre un client et un serveur en utilisant les so
 
 ### 1. Exécution du serveur
 
-![Serveur échange d'objets](captures/CONSOLE serveur2-2.png)
+![Serveur échange d'objets](captures/CONSOLE_serveur2-2.png)
 
 ### 2. Exécution du client
 
 Le client envoie un objet représentant une opération et affiche le résultat reçu.
 
-![Client échange d'objets](captures/CONSOLE client2-2.png)
+![Client échange d'objets](captures/CONSOLE_client2-2.png)
 
 ---
 
